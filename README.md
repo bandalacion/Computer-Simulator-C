@@ -23,4 +23,3 @@ The program runs a simulation based on given parameters and outputs results that
 
 ---
 
-## Project Structure
